@@ -141,7 +141,7 @@ const RegisterPage = () => {
                                     />
                                 </div>
                                 <Button
-                                    type="button"
+                                    type="submit"
                                     className="w-full text-white bg-primary-600 hover:bg-primary-700 focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800"
                                 >
                                     Sign Up
